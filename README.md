@@ -1,1 +1,0 @@
-# workshop-docker-aovivo
